@@ -52,6 +52,4 @@ The primary objective of this project is to predict horse race outcomes and iden
 ## References
 
 - **Python**: [https://docs.python.org/3/](https://docs.python.org/3/)
-- **MongoDB Documentation**: [https://www.mongodb.com/](https://www.mongodb.com/)
-- **Streamlit Documentation**: [https://docs.streamlit.io/library/api-reference](https://docs.streamlit.io/library/api-reference)
 - **Scikit-learn Documentation**: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
